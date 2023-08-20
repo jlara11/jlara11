@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hello World!
 
-<!--
-**jlara11/jlara11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Eu sou Julyana Prado, um desenvolvedor full stack em treinamento.
 
-Here are some ideas to get you started:
+❤️ Fatecana
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Atualmente, estou trabalhando em projetos de desenvolvimento multiplataforma.
+
+🌱 Estou aprendendo Java e Angular.
+
+👯 Estou sempre buscando colaborar com outras pessoas e compartilhar meu conhecimento.
+
+💬 Se você tiver alguma dúvida, não hesite em me perguntar!
+
+📫 Você pode me contatar pelo e-mail jtplara@gmail.com.
