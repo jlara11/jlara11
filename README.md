@@ -1,6 +1,6 @@
 # Hello World!
 
-👋 Eu sou Julyana Prado, um desenvolvedora full stack em treinamento.
+👋 Eu sou Julyana Prado, uma desenvolvedora full stack em treinamento.
 
 ❤️ Fatecana
 
