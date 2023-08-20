@@ -1,15 +1,15 @@
 # Hello World!
 
-👋 Eu sou Julyana Prado, uma desenvolvedora full stack em treinamento.
+👋 I'm Julyana Prado, a full stack developer in training.
 
 ❤️ Fatecana
 
-🔭 Atualmente, estou trabalhando em projetos de desenvolvimento multiplataforma.
+🔭 I'm currently working on cross-platform development projects.
 
-🌱 Estou aprendendo Java e Angular.
+🌱 I'm learning Java and Angular.
 
-👯 Estou sempre buscando colaborar com outras pessoas e compartilhar meu conhecimento.
+👯 I'm always looking to collaborate with others and share my knowledge.
 
-💬 Se você tiver alguma dúvida, não hesite em me perguntar!
+💬 If you have any questions, don't hesitate to ask!
 
-📫 Você pode me contatar pelo e-mail jtplara@gmail.com.
+📫 You can reach me by email at jtplara@gmail.com.
