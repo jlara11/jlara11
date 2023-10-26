@@ -2,11 +2,12 @@
 
 👋 I'm Julyana Prado, a full stack developer in training.
 
+
 ❤️ Fatecana
 
 🔭 I'm currently working on cross-platform development projects.
 
-🌱 I'm learning Java and Angular.
+🌱 I'm learning Java, Javascript, Flutter,React,Vue and Angular.
 
 👯 I'm always looking to collaborate with others and share my knowledge.
 
